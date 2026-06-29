@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775517023441",
+    "project_id": "eas-pab-quizlearn",
+    "storage_bucket": "eas-pab-quizlearn.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775517023441:android:dcaedfecc82d3beebbe9f0",
+        "android_client_info": {
+          "package_name": "com.example.eas_pab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy9CzpUbmJMVkqjj1aCA1QxwujDAKgBtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
